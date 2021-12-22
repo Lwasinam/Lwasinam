@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lwasinam Dilli</h1>
 <h3 align="center">An app developer and Computer Engineering Studemt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lwasinam" alt="lwasinam" /></a> </p>
-
 - 🔭 I’m currently working on **Ebook Jotter**
 
 - 🌱 I’m currently learning **More about app development**
