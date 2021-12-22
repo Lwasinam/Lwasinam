@@ -5,6 +5,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started In Programming](https://medium.com/@lwasinamdilli/getting-started-in-programming-466cff39c009?source=rss-15338d8fef4c------2)
+- [Qualities of A Successful developer](https://medium.com/@lwasinamdilli/qualities-of-a-successful-developer-5be269896744?source=rss-15338d8fef4c------2)
+- [I hated school until I figured this out……](https://medium.com/@lwasinamdilli/i-hated-school-until-i-figured-this-out-9adce64cd50f?source=rss-15338d8fef4c------2)
+- [Turning Ideas Into Startups](https://medium.com/@lwasinamdilli/turning-ideas-into-startups-68b11cc08364?source=rss-15338d8fef4c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
