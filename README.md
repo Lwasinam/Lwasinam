@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lwasinam Dilli</h1>
 <h3 align="center">An app developer and Computer Engineering Studemt</h3>
 
-- 🔭 I’m currently working on **Ebook Jotter**
-
-- 🌱 I’m currently learning **More about app development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Lwasinam](https://github.com/Lwasinam)
-
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
-
-- 💬 Ask me about **flutter, dart, python**
-
-- 📫 How to reach me **lwasinamdilli@gmail.com**
-
-- ⚡ Fun fact **I sing and play the guitar**
+# I am an app developer 1+ year of experience in app development, I am always curious and open to learning new technologies that will solve problems I face, Apart from app development I also love singing and playing the guitar. Thanks for checking out my repo. 😀
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
