@@ -3,7 +3,7 @@
 
 <h4> I am an app developer 1+ year of experience in app development, I am always curious and open to learning new technologies that will solve problems I face, Apart from app development I also love singing and playing the guitar. Thanks for checking out my repo. 😀 </h4>
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started In Programming](https://medium.com/@lwasinamdilli/getting-started-in-programming-466cff39c009?source=rss-15338d8fef4c------2)
 - [Qualities of A Successful developer](https://medium.com/@lwasinamdilli/qualities-of-a-successful-developer-5be269896744?source=rss-15338d8fef4c------2)
