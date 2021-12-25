@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lwasinam Dilli</h1>
 <h3 align="center">An app developer and Computer Engineering Studemt</h3>
 
-<h4> I am a software developer with 1+ year of experience in app development, I am always curious and open to learning new technologies that will solve problems I face, Apart from app development I also love singing and playing the guitar. Thanks for checking out my repo. 😀 </h4>
+<h4> I am a software developer with 1+ year of experience in app development, I am always curious and open to learning new technologies that will solve problems I face, I am proficient in Flutter, Dart and I also have a some experience with Python, Postman, Git and Linux. Apart from app development I also love singing and playing the guitar. Thanks for checking out my repo. 😀 </h4>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
