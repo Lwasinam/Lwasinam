@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lwasinam Dilli</h1>
-<h3 align="center">An app developer and Computer Engineering Student</h3>
+<h3 align="center">An ML Engineer and Computer Engineering Student</h3>
 
-<h4> I am a software developer with 1+ year of experience in app development, I am always curious and open to learning new technologies that will solve problems I face, I am proficient in Flutter, Dart and I also have a some experience with Python, Postman, Git and Linux. Apart from app development I also love singing and playing the guitar. Thanks for checking out my repo. 😀 </h4>
+<h4> I am an ML Engineer with 1+ year of experience in building machine learning models, I am always curious and open to learning new technologies that will solve problems I face, I am proficient in Python, Pytorch and I also have some experience with Postman, Git and Linux. Apart from machine learning I also love singing and playing the guitar. Thanks for checking out my repo. 😀 </h4>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
