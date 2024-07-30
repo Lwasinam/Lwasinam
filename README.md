@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lwasinam" target="blank"><img src="https://img.shields.io/twitter/follow/lwasinam?logo=twitter&style=for-the-badge" alt="lwasinam" /></a> </p>
 
-- 🔭 I’m currently working on **an ai agent using vision language models**
+- 🔭 I’m currently working on **text-to-speech architectures**
 
 - 📝 I regularly write articles on [https://medium.com/@lwasinamdilli](https://medium.com/@lwasinamdilli)
 
